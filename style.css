@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+main{
+    border: 2px solid black;
+}
+div{
+    border:2ps solid red ;
+    display: inline;
+    margin: right 20px; ;
+}
